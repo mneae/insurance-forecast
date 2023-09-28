@@ -1,5 +1,9 @@
 # insurance-forecast
 
+*Machine Learning*
+
+---
+
 This project was prepared for the Global AI Hub Machine Learning Bootcamp.
 
 ---
